@@ -19,3 +19,11 @@ var myVar = "Hello, world!";
 ```cpp
 string name = "Bhavishya";
 ```
+
+4. Adding Task List
+-------------------------
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
